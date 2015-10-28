@@ -1,0 +1,1 @@
+Cookie Store is a FireFox extension that provides multiple cookie jars to allow simultaneous session cookies for a given domain. For example, you can be logged into a web application with multiple accounts at the same time in the same browser window and be able to switch between them easily.
